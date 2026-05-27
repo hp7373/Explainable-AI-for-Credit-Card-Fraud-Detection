@@ -155,10 +155,4 @@ Used for:
 
 ---
 
-## Project Structure
 
-```bash
-├── creditcard.csv
-├── fraud_detection.py
-├── fraud_detection_pipeline.pkl
-├── README.md
